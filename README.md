@@ -4,7 +4,14 @@
 **Raphaela43/Raphaela43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+Meu nome e Raphaela Baratela
+Estou estudando no Alura
+Estou desenvolvendo no JavaScript
+Voce pode entrar em contato comigo
 
+alurastarestudante@email.com
+@aluraestudante
+Utilizo este espaco para minha organizacao e compartilhamento dos meus projetos desenvolvidos
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
